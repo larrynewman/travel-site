@@ -1,8 +1,24 @@
 {
-	"name": "travel-site",
-	"version": "1.0.0",
-	"dependencies": {
-		"jquery": "^3.3.1",
-		"normalize.css": "^8.0.1"
-	}
+  "name": "travel-site",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.1"
+  },
+  "main": "gulpfile.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larrynewman/travel-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larrynewman/travel-site/issues"
+  },
+  "homepage": "https://github.com/larrynewman/travel-site#readme",
+  "description": ""
 }
